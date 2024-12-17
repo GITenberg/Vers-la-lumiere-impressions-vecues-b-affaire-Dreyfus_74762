@@ -1,0 +1,43 @@
+_repo: Vers-la-lumiere-impressions-vecues-b-affaire-Dreyfus_74762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Séverine
+    aliases:
+    - Rémy, Caroline
+    - Remy, Caroline
+    - Severine
+    - Guébhard, Caroline
+    - Guebhard, Caroline
+    - Guébhard, Caroline Rémy, Mme.
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '57632'
+    url: http://www.gutenberg.org/2009/agents/57632
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Caroline_R%C3%A9my_de_Guebhard
+    - https://fr.wikipedia.org/wiki/S%C3%A9verine
+description: ''
+gutenberg_issued: '2024-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74762'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k112804z
+pgterms:marc905: 20240725125342sverine
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: 'Produced by: J.-M. Mariot from files generously made available by
+  the Bibliothèque nationale de France (BnF/Gallica).'
+publication_note: '  $aParis :$bP.-V. Stock, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1870-1940'
+- !lcsh 'Dreyfus, Alfred, 1859-1935 -- Trials, litigation, etc.'
+- !lcsh 'Esterhazy, Ferdinand Walsin, 1847-1923 -- Trials, litigation, etc.'
+- !lcc 'DC'
+- GITenberg
+title: 'Vers la lumière... impressions vécues : $b affaire Dreyfus'
+url: http://www.gutenberg.org/ebooks/74762
