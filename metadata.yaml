@@ -1,5 +1,8 @@
 _repo: Vers-la-lumiere-impressions-vecues-b-affaire-Dreyfus_74762
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74762-h/images/cover.jpg
 creator:
   author:
     agent_name: Séverine
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Caroline_R%C3%A9my_de_Guebhard
     - https://fr.wikipedia.org/wiki/S%C3%A9verine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74762#Vers-la-lumiere-impressions-vecues-b-affaire-Dreyfus
 gutenberg_issued: '2024-11-19'
 gutenberg_type: Text
 identifiers:
